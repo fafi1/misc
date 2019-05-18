@@ -1,5 +1,7 @@
-package net.codefudge.misc.fun
+package net.codefudge.fun.search
 
+import net.codefudge.fun.search.Tree
+import net.codefudge.fun.search.TreeSearch
 import spock.lang.Specification
 
 class TreeSpec extends Specification {

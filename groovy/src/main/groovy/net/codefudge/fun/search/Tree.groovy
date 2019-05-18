@@ -1,4 +1,4 @@
-package net.codefudge.misc.fun
+package net.codefudge.fun.search
 
 class Tree<T> {
     T content
