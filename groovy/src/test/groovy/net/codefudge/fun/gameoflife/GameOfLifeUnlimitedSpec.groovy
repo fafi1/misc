@@ -3,7 +3,7 @@ package net.codefudge.fun.gameoflife
 import spock.lang.Specification
 import spock.lang.Unroll
 
-class GameOfLifeSpec extends Specification {
+class GameOfLifeUnlimitedSpec extends Specification {
     @Unroll
     def 'rule 1: fewer than 2 neighbours cell dies'() {
         given:
@@ -59,10 +59,12 @@ class GameOfLifeSpec extends Specification {
         where:
         //@formatter:off
         grid     | expGrid
-        '***'    | '.*.'
-        '***\n'+
-        '*.*'    | '*.*\n' +
-                   '*.*'
+        '***'    | '.*.\n' +
+                   '.*.\n' +
+                   '.*.'
+//        '***\n'+
+//        '*.*'    | '*.*\n' +
+//                   '*.*'
         //@formatter:on
     }
 
