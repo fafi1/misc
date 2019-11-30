@@ -1,0 +1,17 @@
+= infos
+
+* https://www.python.org/dev/peps/pep-0008/
+* https://stackoverflow.com/questions/36484184/python-make-a-post-request-using-python-3-urllib
+* https://docs.python.org/3/howto/urllib2.html#
+* https://docs.python.org/3/tutorial
+* https://docs.python.org/3/library/glob.html
+* https://docs.python.org/3/library/functions.html
+
+
+== package management
+
+* https://packaging.python.org/key_projects/
+* https://docs.python.org/3/library/venv.html
+* https://packaging.python.org/tutorials/installing-packages/#use-pip-for-installing
+* https://pypi.org/
+* https://packaging.python.org/
