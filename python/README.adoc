@@ -2,10 +2,14 @@
 
 * https://www.python.org/dev/peps/pep-0008/
 * https://stackoverflow.com/questions/36484184/python-make-a-post-request-using-python-3-urllib
+* https://docs.python.org/3/index.html
 * https://docs.python.org/3/howto/urllib2.html#
 * https://docs.python.org/3/tutorial
 * https://docs.python.org/3/library/glob.html
 * https://docs.python.org/3/library/functions.html
+* https://stackoverflow.com/questions/48954870/how-to-share-code-between-python-projects
+* https://stackabuse.com/python-modules-creating-importing-and-sharing/
+* https://en.wikipedia.org/wiki/NASDAQ-100
 
 
 == package management
