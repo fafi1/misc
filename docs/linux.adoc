@@ -1,5 +1,0 @@
-= Links and infos
-
-== Alpine
-
-* how-to store local changes in flash installation: https://wiki.alpinelinux.org/wiki/Back_Up_a_Flash_Memory_Installation
