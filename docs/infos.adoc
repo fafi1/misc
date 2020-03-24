@@ -69,3 +69,7 @@
 * http://engineering.curalate.com/2016/09/29/programmatic-jenkins-jobs.html
 * unix users: https://stackoverflow.com/questions/33520009/jenkins-configure-global-security-from-bash-script
 * https://www.cyberark.com/threat-research-blog/configuring-and-securing-credentials-in-jenkins/
+
+= Nomad
+
+* https://www.infoq.com/articles/scaling-containers-hashicorp-nomad/

@@ -7,10 +7,14 @@
 * https://docs.python.org/3/tutorial
 * https://docs.python.org/3/library/glob.html
 * https://docs.python.org/3/library/functions.html
+* https://docs.python.org/3/tutorial/datastructures.html
+* https://stackoverflow.com/questions/509211/understanding-slice-notation
 * https://stackoverflow.com/questions/48954870/how-to-share-code-between-python-projects
 * https://stackabuse.com/python-modules-creating-importing-and-sharing/
 * https://en.wikipedia.org/wiki/NASDAQ-100
-
+* https://requests.readthedocs.io/en/master/
+* https://docs.python.org/3/howto/urllib2.html
+* https://docs.python.org/3.3/library/index.html
 
 == package management
 
@@ -19,3 +23,4 @@
 * https://packaging.python.org/tutorials/installing-packages/#use-pip-for-installing
 * https://pypi.org/
 * https://packaging.python.org/
+* https://packaging.python.org/tutorials/packaging-projects/
