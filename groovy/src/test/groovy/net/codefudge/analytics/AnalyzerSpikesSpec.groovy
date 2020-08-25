@@ -68,8 +68,8 @@ Running on node3
 
         where:
         textLines             | expPatterns
-        oneGroupPatternsEnd() | ['take away': null]
-        oneGroupPatternsEnd() | ['Running on': new AnalyzerPattern(), 'Started by': new AnalyzerPattern()]
+        oneGroupPatternsEnd() | ['take away': new AnalyzerPattern(), 'ls -l': null]
+//        oneGroupPatternsEnd() | ['Running on': new AnalyzerPattern(), 'Started by': new AnalyzerPattern()]
 //        oneGroupPatternsEnd() | ['Running': null, 'on': null]
     }
 

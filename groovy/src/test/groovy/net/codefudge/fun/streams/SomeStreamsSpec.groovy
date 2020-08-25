@@ -22,10 +22,24 @@ class SomeStreamsSpec extends Specification {
 
     def 'create logs'() {
         expect:
-        1000.times {
+        10.times {
             LOG.info('{}|{}|{}|{}', Instant.now().toString(), 'log', 'info',
                     json.write(new TestMessage(text: nextMsg(), offset: it)))
         }
+    }
+
+    def 'some stream'() {
+        def list = []
+        10.times { list.add(it) }
+
+        expect:
+        list.stream()
+                .map { it * 2 }
+                .map { it % 3 }
+                .map { "hi there $it" }
+                .sorted()
+                .distinct()
+                .each { println it }
     }
 
     String nextMsg() {
